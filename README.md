@@ -1,4 +1,4 @@
-﻿# EVENBRITE  (evenbrite API) - Login Facebook de una Pagina Adicional
+﻿# EVENBRITE(API) - Login Facebook de una Pagina Adicional
 Para la realización del proyecto se uso la Api de evenbrite la cuál contiene todos los eventos que se realizan cada día en distintas categorias (boton registrarme lleva a otra pagina prueba api facebook y firebase)
 #### Busca tu evento por nombre o por categoria
 ![image](assets/evenvrite1.PNG)
