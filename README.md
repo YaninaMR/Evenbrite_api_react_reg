@@ -20,6 +20,5 @@ Para la realización del proyecto se uso la Api de evenbrite la cuál contiene t
 *boton :REGISTRATE:
    -FACEBOOK API
    -FIREBASE
-## Desarrollado por: 
-- Yanina Mercado
+
 
